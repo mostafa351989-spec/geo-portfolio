@@ -46,7 +46,7 @@ export default function Sidebar({ language = 'ar' }) {
               padding: 20, overflowY: 'auto'
             }}
           >
-            <h2 style={{ color: 'white', marginBottom: 25, textAlign: 'center' }}>Mostafa Mahmoud</h2>
+            <h2 style={{ color: 'white', marginBottom: 25, textAlign: 'center' }}>Mostafa Mahmoud - Updated</h2>
             
             {/* هنا التعديل المهم: flex-col بدل grid-cols-2 */}
             <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
